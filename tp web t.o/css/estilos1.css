@@ -1,0 +1,53 @@
+header {
+    width: 200px;
+    height: 30px;
+    background-color: crimson;
+}
+
+nav {
+    width: 200px;
+    height: 25px;
+    background-color: lightgreen;
+}
+
+#div1 {
+    width: 250px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+
+#div2 {
+    width: 95px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+   justify-content: space-around;
+}
+
+section {
+    width: 95px;
+    height: 100px;
+    background-color: springgreen;
+}
+
+article {
+    width: 95px;
+    height: 100px;
+    background-color: darkorange;
+}
+
+aside {
+    width: 75px;
+    height: 200px;
+    background-color: green;
+}
+
+footer {
+    width: 200px;
+    height: 25px;
+    background-color: orangered;
+}
